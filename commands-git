@@ -4,3 +4,6 @@ git comit
 git push 
 git pull origin " main/master"
 git git branc "add-create-branch-command"
+
+pull = git pull
+
